@@ -24,19 +24,13 @@ Bash
 
 git clone https://github.com/yourusername/ecotrack.git
 cd ecotrack
-Backend Setup
 
-2)Bash
 
-cd backend
-npm install
-# Create a .env file with your MYSQL_DB_URL and API_KEYS
-npm start
-Frontend Setup
+2)Frontend Setup
 
-3)Bash
+Bash
 
-cd frontend
+cd green-heartbeat-main
 npm install
 npm run dev
  
